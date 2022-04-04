@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = benzaoui.w@gmail.com
+	name = wafa benzaoui
